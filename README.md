@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-I'm a Mechanical Engineer from Ahmedabad University with a strong enthusiasm for technology and software development. Throughout my studies and personal projects, I've applied programming skills to engineering challenges and discovered a passion for writing code, solving problems, and making things work efficiently.
+I'm a 21 year old Mechanical Engineer student from Ahmedabad University final year with a strong enthusiasm for technology and software development. Throughout my studies and personal projects, I've applied programming skills to engineering challenges and discovered a passion for writing code, solving problems, and making things work efficiently.
 My work spans IoT devices, backend services, browser tools, thermal simulations and robotics.
 
 ---
