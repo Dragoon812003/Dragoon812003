@@ -87,4 +87,4 @@ Simulated airflow inside a biomass cookstove using ANSYS Fluent:
 
 📧 E-Mail: kamkoriwalamuhammad@gmail.com  
 🔗 GitHub: [Dragoon812003](https://github.com/Dragoon812003)  
-🔗 LinkedIn: https://www.linkedin.com/in/muhammad-kamkoriwala-955a74200
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-kamkoriwala/
