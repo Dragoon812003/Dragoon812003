@@ -24,10 +24,12 @@ My work spans IoT devices, backend services, browser tools, thermal simulations 
 ## 🔧 Featured Projects
 
 ### 🔹 [Edge Blogs](https://edgeblogs.pythonanywhere.com)
+        
 A blog platform with:
 - User authentication, content upload, and comment system
 - Custom-built recommendation engine based on top keyword tags and user behavior (likes, reads, follows). No ML libraries — all logic hand-coded
 - Built using Django + SQLite.
+- **GitHub:** [Edge Blogs Repository](https://github.com/Dragoon812003/edgeblogs-live)
 
 ### 🔹 [Edge Games](https://edgegames.pythonanywhere.com)
 Browser-based gaming platform:
@@ -35,7 +37,8 @@ Browser-based gaming platform:
 - Developers can upload thier game with full asset support served via generated urls
 - Includes a high-score API which tracks global/personal scores, user cookies for guest play, supports 
 score-linking post signup, and leaderboard fetch. All APIs are JS-callable and designed for easy developer 
-integration. 
+integration.
+- **GitHub:** [Edge Games Repository](https://github.com/Dragoon812003/edgegames)
 
 ### 🔹 River Cleaner Bot (ESP32)
 Waste-cleaning robot:
