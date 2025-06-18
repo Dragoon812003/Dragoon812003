@@ -60,7 +60,7 @@ Terrain-scanning detection bot:
 Simple task management web app:
 - Login system, task creation, editing, priorities, due dates and collaboration features between different users for projects
 - Built using Django + SQLite; responsive UI for desktop/mobile use
-- - **GitHub:** [Edge Tasks Repository](https://github.com/Dragoon812003/EdgeTames)
+- - **GitHub:** [Edge Tasks Repository](https://github.com/Dragoon812003/EdgeTasks)
 
 ### 🔹 CFD Simulation – Biomass Cookstove
 Simulated airflow inside a biomass cookstove using ANSYS Fluent:
